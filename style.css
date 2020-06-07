@@ -164,8 +164,3 @@ html {
     background-color: orange;
     text-align: center;
 }
-.list-inline{
-    display: flex;
-    justify-content: center;
-    list-style: none;
-}
