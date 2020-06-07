@@ -85,7 +85,6 @@
 }
 
 #services {
-    border: 2px solid red;
     display: block;
     display: flex;
     height: 565px;
@@ -96,7 +95,7 @@
 }
 
 .img{
-    margin: 12px 12px;
+    margin: 12px 14px;
     width: 227px;
     height: 165px;
     box-shadow: 4px 5px rgb(104, 230, 104);
