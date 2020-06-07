@@ -99,6 +99,7 @@
     margin: 12px 12px;
     width: 227px;
     height: 165px;
+    box-shadow: 4px 5px rgb(104, 230, 104);
     transition: all 1s ease-in-out .3s;
 }
 .img:hover{
