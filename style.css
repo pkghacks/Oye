@@ -166,3 +166,6 @@ html {
     background-color: orange;
     text-align: center;
 }
+footer ul li a{
+    text-decoration: none;
+}
