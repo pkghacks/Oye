@@ -136,12 +136,14 @@ html {
 #tree{
     width: 90%;
     height: 100%;
-    mask-image: element();
+}
+.animate__animated.animate__bounce {
+    --animate-duration: 1.5s;
+    animation-iteration-count: infinite;
 }
 .about-content{
     border: 2px solid black;
-    border-radius: 20px;
-    
+    border-radius: 20px;  
 }
 
 #about h1{
