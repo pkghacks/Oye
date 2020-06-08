@@ -30,3 +30,41 @@
     font-size: 23px;
     margin: 80px;
 }
+
+#clients {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 369px;
+}
+
+#img:hover{
+    width: 345px;
+    height: 350px;
+}
+
+#about h1{
+    font-size: 20px;
+    padding: 30px 30px;
+}
+#tree{
+    display: none;
+}
+
+.about-content{
+    border: 2px solid black;
+    border-radius: 20px;  
+    height: 50vh;
+}
+#about h1{
+    color: orange;
+    font-size: 20px;
+    text-align: start;
+    text-shadow: 2px 2px 5px grey;
+}
+
+#about p{
+    padding: 3px 20px;
+    font-size: 11px;
+    color: rgb(102, 87, 87);
+}
